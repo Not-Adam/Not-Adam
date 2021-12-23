@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Milit321
+- 👋 Hi, I’m @Not-Adam
 - 👀 I’m interested in Machine Learning and AI
 - 🌱 I’m currently learning Web Development
 - 📫 How to reach me: (Discord) adamm#1415
